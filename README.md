@@ -1,6 +1,6 @@
 # StillMovieGen
 
-A small Python tool to generate a "still movie" from a static image. Inspired by zyzsdy/static-movie-generator
+A small Python tool to generate a "still movie" from a static image. Inspired by [zyzsdy/static-movie-generator](https://github.com/zyzsdy/static-movie-generator)
 
 It also supports generating single image with cover style ~~due to poor I/O performance~~.
 
